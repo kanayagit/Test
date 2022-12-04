@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main () {
-    puts("WOW");
+    puts("WOW!");
     return 0;
 }
